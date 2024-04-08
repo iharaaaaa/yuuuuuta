@@ -1,0 +1,30 @@
+
+body {
+    background-image: url("bg_Argyle.jpg");
+    background-repeat: repeat;
+}
+.box {
+    width: 1000px;
+    height: 600px;
+    font-weight: bold;
+    color: black;/*文字色*/
+    background: #FFF;
+    border: solid 3px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+
+#comment{
+    width: 500px;
+    height: 100px;
+}
+
+.a{
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
